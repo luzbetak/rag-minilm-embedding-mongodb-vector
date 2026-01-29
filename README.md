@@ -14,7 +14,7 @@ RAG Knowledge Forge
 - Final Fallback: Basic extractive summarization
 
 
-## Directory structure and necessary files:
+## Directory Structure:
 
 ```bash
 ├── 0-Instalation.sh
