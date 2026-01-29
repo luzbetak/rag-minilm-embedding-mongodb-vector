@@ -45,7 +45,7 @@ RAG Knowledge Forge
 └── utils.py
 ```
 
-## Search Question and Result
+## Question and Result
 ```
 +------------------------------------------------------------------------+
 | Orthomolecular Medicine Search                                         |
